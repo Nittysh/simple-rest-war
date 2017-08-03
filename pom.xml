@@ -29,11 +29,6 @@
 	<artifactId>jersey-client</artifactId>
 	<version>1.12</version>
     </dependency>
-<dependency>
-	<groupId>org.sonatype.nexus</groupId>
-	<artifactId>nexus-custom-metadata-plugin-client</artifactId>
-	<version>1.0</version>
-</dependency>
     <dependency>
       <groupId>org.glassfish.jersey.containers</groupId>
       <artifactId>jersey-container-servlet-core</artifactId>
