@@ -9,13 +9,6 @@
     <jersey.version>2.13</jersey.version>
   </properties>
    
-<distributionManagement>
-  <snapshotRepository>
-    <id>nexus</id>
-    <url>http://54.187.29.62:8081/nexus/content/repositories/snapshots</url>
-  </snapshotRepository>
-</distributionManagement>
-  
  
 
   <dependencies>
