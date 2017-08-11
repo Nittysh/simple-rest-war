@@ -18,6 +18,7 @@
 </distributionManagement>
  
 
+	
   <dependencies>
     <dependency>
       <groupId>javax.ws.rs</groupId>
